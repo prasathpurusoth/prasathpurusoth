@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/file/d/1DboUL0uEQM6BtcuYxha49wBT2-Di79HI/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm PRASATH P</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasathpurusoth&label=Profile%20views&color=0e75b6&style=flat" alt="prasathpurusoth" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasathpurusoth" alt="prasathpurusoth" /></a> </p>
